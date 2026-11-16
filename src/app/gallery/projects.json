@@ -1629,6 +1629,14 @@
     "demoUrl": "meditr.netlify.app",
     "codeUrl": "https://github.com/studyloops37238/mediTrack",
     "githubUsername": "studyloops37238",
-    "imageSrc": "/gallery/screenshots/recGMWzedvoALJ3Wb.webp"
+        "imageSrc": "/gallery/screenshots/recGMWzedvoALJ3Wb.webp"
+  },
+  {
+    "recordId": "h-ardy-gridaid",
+    "projectName": "GridAid",
+    "demoUrl": "https://h-ardy.github.io/CAC-GridAid/",
+    "codeUrl": "https://github.com/h-ardy/CAC-GridAid",
+    "githubUsername": "h-ardy",
+    "imageSrc": "/gallery/screenshots/h-ardy-gridaid.png"
   }
 ]
